@@ -1,4 +1,4 @@
-# 🔐 Cyber Lockbox Pro (Java Swing Edition)
+# 🔐 Cyber Lockbox Pro
 
 Cyber Lockbox Pro is a lightweight, offline desktop tool that securely encrypts and decrypts files using **AES-256 (GCM mode)** encryption.  
 It’s built entirely with **Java Swing**, featuring a clean, dark-themed interface for a simple and secure user experience.

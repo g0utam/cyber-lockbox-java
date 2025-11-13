@@ -24,7 +24,6 @@ java -cp out Main
 
 ## 🧠 Notes
 - Requires **Java 11+** for PBKDF2WithHmacSHA256.
-- Compatible with files from the Python Cyber Lockbox.
 
 ## 🧑‍💻 Author
-Developed by g0utam | Ported to Java by ChatGPT
+Developed by g0utam
